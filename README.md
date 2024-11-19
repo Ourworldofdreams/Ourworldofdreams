@@ -6,10 +6,10 @@ Hi, I'm **Elijah**—a recent graduate and motivated IT professional with a stro
 --- 
 ## 🚀 **Skills I'm Working On**
 
-|Skill                                | Associated Project                         |
-|-------------------------------------|--------------------------------------------|
-|SIEM Implementation and log analysis |
-|Network Traffic Monitoring  and Attack Detection|
+|Skill                                | Associated Project                                   |
+|-------------------------------------|------------------------------------------------------|
+|SIEM Implementation and log analysis |[SIEM Threat Detection Lab](https://github.com/Ourworldofdreams/SIEM-Threat-Detection-Lab)
+|Network Traffic Monitoring  and Attack Detection|[SIEM Threat Detection Lab](https://github.com/Ourworldofdreams/SIEM-Threat-Detection-Lab)
 |Security Automation with shuffle SOAR|
 |Incident Response Planning and Execution|
 |Case Managment with TheHive|
@@ -21,6 +21,8 @@ Hi, I'm **Elijah**—a recent graduate and motivated IT professional with a stro
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kali_Linux-557C94?style=for-the-badge&logo=Kali-Linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-4682B4?style=for-the-badge&logo=Nmap&logoColor=white" />
 </div>
 
 ### Endpoint 
@@ -33,6 +35,7 @@ Hi, I'm **Elijah**—a recent graduate and motivated IT professional with a stro
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+     <img src="https://img.shields.io/badge/-Elastic_SIEM-005571?style=for-the-badge&logo=Elastic&logoColor=white" />
 <div>
 
   ### Email Security & Administration
@@ -51,8 +54,13 @@ Hi, I'm **Elijah**—a recent graduate and motivated IT professional with a stro
 ---
 ## 📂 **Projects**
 
-### 🔐 **[Phishing Detection Workflow](#)**  
-A step-by-step guide to analyzing phishing attempts using open-source tools and automation scripts.  
+### 🔍 **[Elastic SIEM Lab: Threat Detection and Analysis](#)**  
+A hands-on project showcasing my ability to deploy a SIEM solution, simulate cyberattacks using Kali Linux, and analyze security events to identify potential threats.  
+
+**Highlights**:  
+- Deployed Elastic SIEM for centralized log analysis and threat detection.  
+- Simulated real-world attacks, including network scans using Nmap.  
+- Conducted detailed log analysis and created visualizations for insights into adversarial behavior.  
 
 ### ⚙️ **[PowerShell Automation Suite](#)**  
 A repository of scripts designed to streamline common system administration tasks.
@@ -62,7 +70,7 @@ A repository of scripts designed to streamline common system administration task
 
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/- ISC&style=for-the-badge&logo=ISC&logoColor=white" />
+<img src="https://img.shields.io/badge/- ISC2&style=for-the-badge&logo=ISC2&logoColor=white" />
 <div>
 
 ---
