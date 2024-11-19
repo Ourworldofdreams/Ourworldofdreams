@@ -62,9 +62,6 @@ A hands-on project showcasing my ability to deploy a SIEM solution, simulate cyb
 - Simulated real-world attacks, including network scans using Nmap.  
 - Conducted detailed log analysis and created visualizations for insights into adversarial behavior.  
 
-### ⚙️ **[PowerShell Automation Suite](#)**  
-A repository of scripts designed to streamline common system administration tasks.
-
 ---
 ## Certifications
 
