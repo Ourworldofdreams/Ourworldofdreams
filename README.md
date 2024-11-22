@@ -6,15 +6,19 @@ Hi, I'm **Elijah**—a recent graduate and motivated IT professional with a stro
 --- 
 ## 🚀 **Skills I'm Working On**
 
-|Skill                                | Associated Project                                   |
-|-------------------------------------|------------------------------------------------------|
-|SIEM Implementation and log analysis |[SIEM Threat Detection Lab](https://github.com/Ourworldofdreams/SIEM-Threat-Detection-Lab)
-|Network Traffic Monitoring  and Attack Detection|[SIEM Threat Detection Lab](https://github.com/Ourworldofdreams/SIEM-Threat-Detection-Lab)
-|Security Automation with shuffle SOAR|
-|Incident Response Planning and Execution|
-|Case Managment with TheHive|
+| Skill                                 | Associated Project                                                                                              |
+|---------------------------------------|----------------------------------------------------------------------------------------------------------------|
+| SIEM Implementation and Log Analysis | - [Elastic SIEM Threat Detection Lab](https://github.com/Ourworldofdreams/SIEM-Threat-Detection-Lab)  
+|                                       | - [Azure SOC Lab: Building a SIEM and Capturing Login Activity](https://github.com/Ourworldofdreams/Azure-SOC-Lab-Building-a-SIEM-and-Capturing-Login-Activity) |
+| Network Traffic Monitoring and Attack Detection | - [Elastic SIEM Threat Detection Lab](https://github.com/Ourworldofdreams/SIEM-Threat-Detection-Lab)  
+|                                       | - [Azure SOC Lab: Building a SIEM and Capturing Login Activity](https://github.com/Ourworldofdreams/Azure-SOC-Lab-Building-a-SIEM-and-Capturing-Login-Activity) |
+| Security Automation with Shuffle SOAR |                                                                                                                |
+| Incident Response Planning and Execution |                                                                                                                |
+| Case Management with TheHive         |                                                                                                                |
+ 
 
 ---
+
 ## Tools
 
 ### Network
@@ -37,21 +41,50 @@ Hi, I'm **Elijah**—a recent graduate and motivated IT professional with a stro
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
      <img src="https://img.shields.io/badge/-Elastic_SIEM-005571?style=for-the-badge&logo=Elastic&logoColor=white" />
 <div>
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Azure_Log_Analytics-0078D4?&style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
+</div>
 
   ### Email Security & Administration
 <div> <img src="https://img.shields.io/badge/-Microsoft_Exchange-0078D4?&style=for-the-badge&logo=MicrosoftExchange&logoColor=white" /> <img src="https://img.shields.io/badge/-KnowBe4_PhishTool-FF5733?&style=for-the-badge&logo=Phishing&logoColor=white" /> </div>
 
 ### Identity & Access Management
 <div> <img src="https://img.shields.io/badge/-Azure_AD-0078D4?&style=for-the-badge&logo=MicrosoftAzure&logoColor=white" /> </div>
+    <img src="https://img.shields.io/badge/-Azure_Active_Directory-0078D4?&style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
+</div>
+
+### Security & Monitoring
+<div>
+    <img src="https://img.shields.io/badge/-Azure_Security_Center-0078D4?&style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Network_Security_Groups-0078D4?&style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
+</div>
+
+### Remote Access
+<div>
+    <img src="https://img.shields.io/badge/-Remote_Desktop_Protocol-0078D4?&style=for-the-badge&logo=Windows&logoColor=white" />
+</div>
+
 
 ### Collaboration & Document Management
 <div> <img src="https://img.shields.io/badge/-SharePoint-0078D4?&style=for-the-badge&logo=MicrosoftSharePoint&logoColor=white" /> </div>
+<div>
+    <img src="https://img.shields.io/badge/-Citrix_Cloud-0078D4?&style=for-the-badge&logo=Citrix&logoColor=white" />
+   </div>
 
 ### Automation & Scripting
 <div> <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=PowerShell&logoColor=white" /> </div>
+ <img src="https://img.shields.io/badge/-Azure_CLI-0089D6?&style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
+</div>
 
-  
+### Cloud Platform
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Azure-0089D6?&style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Azure_Virtual_Machines-0089D6?&style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
+</div>
+
 ---
+
 ## 📂 **Projects**
 
 ### 🔍 **[Elastic SIEM Lab: Threat Detection and Analysis](#)**  
@@ -61,14 +94,34 @@ A hands-on project showcasing my ability to deploy a SIEM solution, simulate cyb
 - Deployed Elastic SIEM for centralized log analysis and threat detection.  
 - Simulated real-world attacks, including network scans using Nmap.  
 - Conducted detailed log analysis and created visualizations for insights into adversarial behavior.  
+Here's a project description for your Azure SOC Lab in the format you provided:
+---
+### 🔐 **Azure SOC Lab: Real-Time Threat Detection and SIEM Implementation**  
+A comprehensive cybersecurity project demonstrating advanced cloud security monitoring and incident detection using Microsoft Azure and SIEM technologies.  
+**Highlights**:  
+- Deployed Windows 10 Pro VM with intentionally exposed RDP to simulate real-world attack scenarios
+- Configured Microsoft Sentinel and Azure Log Analytics for comprehensive security monitoring
+- Captured and analyzed unauthorized login attempts and potential brute-force attacks
+- Implemented network security groups and threat intelligence feeds for enhanced protection
+- Developed incident response strategies based on log analysis and security event correlation
+
+**Technologies**: Azure, Windows 10, Microsoft Sentinel, PowerShell, RDP, Network Security Groups
+
+**Skills Demonstrated**: 
+- Cloud Security Configuration
+- Threat Detection
+- Log Analysis
+- Incident Response Planning
+- Security Monitoring
 
 ---
 ## Certifications
 
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/- ISC2&style=for-the-badge&logo=ISC2&logoColor=white" />
 <div>
+    <img src="https://img.shields.io/badge/-ISC2_Certified_In_Cybersecurity-0078D4?&style=for-the-badge&logo=ISC2&logoColor=white" />
+</div>
 
 ---
 
