@@ -65,7 +65,6 @@ Hi, I'm **Elijah**—a recent graduate and motivated IT professional with a stro
     <img src="https://img.shields.io/badge/-Remote_Desktop_Protocol-0078D4?&style=for-the-badge&logo=Windows&logoColor=white" />
 </div>
 
-
 ### Collaboration & Document Management
 <div> <img src="https://img.shields.io/badge/-SharePoint-0078D4?&style=for-the-badge&logo=MicrosoftSharePoint&logoColor=white" /> </div>
 <div>
@@ -81,6 +80,23 @@ Hi, I'm **Elijah**—a recent graduate and motivated IT professional with a stro
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Azure-0089D6?&style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
     <img src="https://img.shields.io/badge/-Azure_Virtual_Machines-0089D6?&style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
+</div>
+
+### Static Analysis & Malware Identification
+<div>
+<img src="https://img.shields.io/badge/-VirusTotal-394EFF?&style=for-the-badge&logo=VirusTotal&logoColor=white" />
+<img src="https://img.shields.io/badge/-Unpac.me-007BFF?&style=for-the-badge&logo=Reverseengineering&logoColor=white" />
+<img src="https://img.shields.io/badge/-Triage_Sandbox-00A4EF?&style=for-the-badge&logo=Sandboxing&logoColor=white" />
+</div>
+
+### Threat Intelligence
+<div>
+<img src="https://img.shields.io/badge/-MalwareBazaar-FF6B6B?&style=for-the-badge&logo=Malware&logoColor=white" />
+</div>
+
+### Malware Analysis Platforms
+<div>
+<img src="https://img.shields.io/badge/-Any.Run-29B5E8?&style=for-the-badge&logo=Virtualmachine&logoColor=white" />
 </div>
 
 ---
@@ -114,6 +130,28 @@ A comprehensive cybersecurity project demonstrating advanced cloud security moni
 - Incident Response Planning
 - Security Monitoring
 
+### 🔬 **[Malicious PDF Analysis Lab: Advanced Malware Forensics](#)**
+A comprehensive malware analysis project demonstrating skills in threat intelligence, static and dynamic malware examination, and professional cybersecurity documentation. **Highlights**:
+- Analyzed Amadey downloader malware (skotes.exe) from MalwareBazaar
+- Performed in-depth static analysis of PE file characteristics
+- Utilized multiple threat intelligence platforms (VirusTotal, Unpac.me, Triage)
+- Identified potential network communication patterns and IOCs
+- Investigated TA505 threat group tactics and malware delivery mechanisms
+- Documented detailed findings following professional cybersecurity workflows
+- Created comprehensive report with actionable mitigation recommendations
+
+**Tools & Technologies**:
+- Static Analysis: VirusTotal, Unpac.me
+- Threat Intelligence: MalwareBazaar
+- Sandbox Analysis: Triage
+- Documentation: GitHub
+
+**Key Skills**:
+- Malware Reverse Engineering
+- Threat Intelligence
+- IOC Identification
+- Cybersecurity Reporting
+  
 ---
 ## Certifications
 
