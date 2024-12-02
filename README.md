@@ -144,10 +144,8 @@ A comprehensive malware analysis project demonstrating skills in threat intellig
 - Static Analysis: VirusTotal, Unpac.me
 - Threat Intelligence: MalwareBazaar
 - Sandbox Analysis: Triage
-- Documentation: GitHub
 
 **Key Skills**:
-- Malware Reverse Engineering
 - Threat Intelligence
 - IOC Identification
 - Cybersecurity Reporting
