@@ -12,7 +12,7 @@ Hi, I'm **Elijah**—a recent graduate and motivated IT professional with a stro
 |                                       | - [Azure SOC Lab: Building a SIEM and Capturing Login Activity](https://github.com/Ourworldofdreams/Azure-SOC-Lab-Building-a-SIEM-and-Capturing-Login-Activity) |
 | Network Traffic Monitoring and Attack Detection | - [Elastic SIEM Threat Detection Lab](https://github.com/Ourworldofdreams/SIEM-Threat-Detection-Lab)  
 |                                       | - [Azure SOC Lab: Building a SIEM and Capturing Login Activity](https://github.com/Ourworldofdreams/Azure-SOC-Lab-Building-a-SIEM-and-Capturing-Login-Activity) |
-| Malware Analysis and Threat Intelligence | - [Malicious PDF Analysis Lab: Amadey Downloader Examination](https://github.com/Ourworldofdreams/Malicious-Malware-Analysis-Lab) |
+| Malware Analysis and Threat Intelligence | - [Malicious Malware Analysis Lab: Amadey Downloader Examination](https://github.com/Ourworldofdreams/Malicious-Malware-Analysis-Lab) |
 | Security Automation with Shuffle SOAR |                                                                                                                |
 | Incident Response Planning and Execution |                                                                                                                |
 | Case Management with TheHive         |                                                                                                                |
