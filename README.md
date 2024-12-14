@@ -127,10 +127,3 @@ Here’s a sneak peek at what I’m working on next:
 **Email**: elijah6023@gmail.com  
 
 ---
-
-### **Why This Works**  
-1. **Engaging but Not Overwhelming**: Streamlined sections make it visually appealing and easier to read.  
-2. **Highlighting Projects**: I focused on your completed projects while teasing upcoming ones.  
-3. **Balanced Tone**: It’s enthusiastic but professional, avoiding overly eager or pretentious language.  
-4. **Clarity in Tools & Skills**: Organized by categories, the tools section makes your expertise more digestible.  
-
