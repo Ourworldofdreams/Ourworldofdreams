@@ -3,14 +3,12 @@
 
 Hi, I’m **Elijah**—a motivated IT professional and recent graduate with hands-on experience in IT support, system administration, and cybersecurity. Based in the Southern U.S., I’m passionate about problem-solving and building secure systems.  
 
-This GitHub is my portfolio, showcasing the technical projects I’ve completed, along with my growing expertise in network security, malware analysis, and threat detection.  
-
-Let’s connect and work together to build a safer digital world. 🌟  
+This GitHub is my portfolio, showcasing the technical projects I’ve completed, along with my growing expertise in network security, phishing analysis, and malware forensics.  
 
 ---
 
 ## **🌟 About Me**  
-- **Current Focus**: Building a solid foundation in SOC operations, cybersecurity analysis, and cloud security.  
+- **Current Focus**: Building a solid foundation in SOC operations, phishing analysis, and malware forensics.  
 - **Strengths**: Analytical problem-solving, incident response planning, and technical documentation.  
 - **Career Goals**: To contribute as a **Security Analyst**, **SOC Analyst**, or **Threat Intelligence Specialist**, while continuing to grow in the dynamic field of cybersecurity.  
 
@@ -18,13 +16,14 @@ Let’s connect and work together to build a safer digital world. 🌟
 
 ## **🚀 Skills in Action**  
 
-| **Skill**                                 | **Associated Project**                                                                                                                                                                                                                                                                                                            |
-|-------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **SIEM Implementation & Log Analysis**   | - [Elastic SIEM Threat Detection Lab](#elastic-siem-threat-detection-lab)  <br>- [Azure SOC Lab: Building a SIEM](#azure-soc-lab-real-time-threat-detection-and-siem-implementation)                                                                                                     |
-| **Network Traffic Analysis**              | - Upcoming: **Wireshark Ransomware C2 Lab**                                                                                                                                                                                                                                                                                  |
-| **Malware Analysis & Threat Intelligence** | - [Malicious Malware Analysis Lab: Amadey Downloader Examination](#malicious-malware-analysis-lab-amadey-downloader-examination)                                                                                                                                                                                             |
-| **Memory Forensics**                      | - Upcoming: **Volatility Memory Dump Analysis**                                                                                                                                                                                                                                                                              |
-| **Vulnerability Scanning & Patching**     | - Upcoming: **OpenVAS Vulnerability Lab**                                                                                                                                                                                                                                                                                     |
+| **Skill**                                   | **Associated Project**                                                                                                                                                                                                                                    |
+|---------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **SIEM Implementation & Log Analysis**     | - [Elastic SIEM Threat Detection Lab](https://github.com/Ourworldofdreams/Elastic-SIEM-Threat-Detection-Lab)  <br>- [Azure SOC Lab: Building a SIEM](https://github.com/Ourworldofdreams/Azure-SOC-Lab-Building-a-SIEM-and-Capturing-Login-Activity)         |
+| **Email Forensics & Phishing Analysis**     | - [Analyzing Phishing Emails](https://github.com/Ourworldofdreams/Analyzing-Phishing-Emails)                                                                                                                                                               |
+| **Malware Analysis & Threat Intelligence** | - [Malicious Malware Analysis Lab](https://github.com/Ourworldofdreams/Malicious-Malware-Analysis-Lab)                                                                                                                                                   |
+| **Network Traffic Analysis**               | - [Network Traffic PCAP File Analysis](https://github.com/Ourworldofdreams/Network-Traffic-PCAP-File-Analysis)                                                                                                                                           |
+| **Memory Forensics**                        | - Upcoming: **Volatility Memory Dump Analysis**                                                                                                                                                                                                           |
+| **Vulnerability Scanning & Patching**       | - Upcoming: **OpenVAS Vulnerability Lab**                                                                                                                                                                                                                 |
 
 ---
 
@@ -44,7 +43,9 @@ A hands-on project showcasing my ability to deploy a SIEM solution, simulate cyb
 - SIEM Configuration  
 
 #### **Technologies**  
-Elastic Stack, Nmap, Kali Linux  
+Elastic Stack, Nmap, Kali Linux, VBox 
+
+🔗 [View the Repository](https://github.com/Ourworldofdreams/Elastic-SIEM-Threat-Detection-Lab)
 
 ---
 
@@ -62,28 +63,70 @@ A comprehensive project demonstrating cloud security monitoring and incident det
 - Cloud Security Monitoring  
 
 #### **Technologies**  
-Microsoft Azure, Sentinel, PowerShell  
+Microsoft Azure, Sentinel, PowerShell, Bash 
+
+🔗 [View the Repository](https://github.com/Ourworldofdreams/Azure-SOC-Lab-Building-a-SIEM-and-Capturing-Login-Activity)
 
 ---
 
-### 🔬 **Malicious Malware Analysis Lab: Amadey Downloader Examination**  
-An in-depth malware analysis project demonstrating static and dynamic analysis techniques, threat attribution, and cybersecurity documentation.  
+### ✉️ **Email Phishing Labs**  
+A dedicated repository showcasing three email analysis labs focused on phishing campaigns.  
 
-#### **Highlights**  
-- Analyzed Amadey Downloader malware (skotes.exe) from MalwareBazaar.  
-- Identified suspicious PE file characteristics and IOCs.  
-- Investigated threat actor (TA505) tactics and malware delivery mechanisms.  
+#### **Repository Highlights**  
+- **Lab 1: Microsoft Account Spoof**  
+  - Analyzed phishing email headers, SPF/DKIM failures, and credential harvesting links.  
+- **Lab 2: Apple iCloud Spoof**  
+  - Investigated DNS lookups and malicious URLs impersonating Apple to steal credentials.  
+- **Lab 3: Sweepstakes Prize Scam**  
+  - Examined metadata, detected spoofed senders, and tracked links to phishing sites.  
+
+#### **Skills Demonstrated**  
+- Email Header Analysis  
+- IOC Collection  
+- Threat Intelligence Research
+
+#### **Technologies**
+
+
+🔗 [View the Repository](https://github.com/Ourworldofdreams/Analyzing-Phishing-Emails)
+
+---
+
+### 🔬 **Malware Analysis Labs**  
+An independent repository featuring in-depth malware analysis projects, focusing on static and dynamic forensics techniques.  
+
+#### **Repository Highlights**  
+- **Lab 1: Amadey Downloader Examination**  
+  - Analyzed PE file structure, identified IOCs, and tracked C2 communication.  
+- **Threat Attribution**: Investigated threat actor (TA505) tactics and campaigns.  
 
 #### **Skills Demonstrated**  
 - Malware Analysis  
-- IOC Collection  
-- Cybersecurity Reporting  
-
+- Threat Attribution  
+- Professional Reporting
+  
 #### **Tools & Platforms**  
-VirusTotal, Unpac.me, Triage Sandbox, MalwareBazaar  
+VirusTotal, Unpac.me, Triage Sandbox, MalwareBazaar
+
+🔗 [View the Repository](https://github.com/Ourworldofdreams/Malicious-Malware-Analysis-Lab)
 
 ---
 
+### 🔍 **Network Traffic Analysis**  
+A dedicated repository for analyzing PCAP files to detect malicious activity like ransomware C2 communication and data exfiltration attempts.  
+
+#### **Highlights**  
+- Investigated malicious traffic patterns using Wireshark.  
+- Identified suspicious DNS queries, beaconing activity, and encrypted payloads.  
+
+#### **Skills Demonstrated**  
+- Network Traffic Analysis  
+- IOC Detection  
+- Packet Filtering  
+
+🔗 [View the Repository](https://github.com/Ourworldofdreams/Network-Traffic-PCAP-File-Analysis)
+
+---
 ## **🛠 Tools I Use**
 
 ### **Networking Tools**  
@@ -108,8 +151,7 @@ VirusTotal, Unpac.me, Triage Sandbox, MalwareBazaar
 ---
 
 ## **🎯 Upcoming Projects**  
-Here’s a sneak peek at what I’m working on next:  
-- **Wireshark Ransomware Traffic Lab**: Analyze ransomware C2 traffic to uncover malicious activity.  
+Here’s what I’m working on next:  
 - **Volatility Memory Dump Analysis**: Investigate malware infection in memory forensics.  
 - **OpenVAS Vulnerability Lab**: Perform vulnerability scans on a vulnerable machine and document remediations.  
 
@@ -127,3 +169,4 @@ Here’s a sneak peek at what I’m working on next:
 **Email**: elijah6023@gmail.com  
 
 ---
+
