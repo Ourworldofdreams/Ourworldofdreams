@@ -43,7 +43,7 @@ A hands-on project showcasing my ability to deploy a SIEM solution, simulate cyb
 - SIEM Configuration  
 
 #### **Technologies**  
-Elastic Stack, Nmap, Kali Linux, VBox 
+`Elastic Stack`, `Nmap`, `Kali Linux`, `VBox`
 
 🔗 [View the Repository](https://github.com/Ourworldofdreams/Elastic-SIEM-Threat-Detection-Lab)
 
@@ -63,7 +63,7 @@ A comprehensive project demonstrating cloud security monitoring and incident det
 - Cloud Security Monitoring  
 
 #### **Technologies**  
-Microsoft Azure, Sentinel, PowerShell, Bash 
+`Microsoft Azure`, `Sentinel`, `PowerShell`, `Bash` 
 
 🔗 [View the Repository](https://github.com/Ourworldofdreams/Azure-SOC-Lab-Building-a-SIEM-and-Capturing-Login-Activity)
 
@@ -86,7 +86,7 @@ A dedicated repository showcasing three email analysis labs focused on phishing 
 - Threat Intelligence Research
 
 #### **Technologies**
-
+`Thunderbird`, `VirusTotal`, `SymantecSiteReview`, `URLScan.io`, `AbuseIPDB`, `URL2PNG`, `Whois.domaintools`
 
 🔗 [View the Repository](https://github.com/Ourworldofdreams/Analyzing-Phishing-Emails)
 
@@ -106,7 +106,7 @@ An independent repository featuring in-depth malware analysis projects, focusing
 - Professional Reporting
   
 #### **Tools & Platforms**  
-VirusTotal, Unpac.me, Triage Sandbox, MalwareBazaar
+`VirusTotal`, `Unpac.me`, `Triage Sandbox`, `MalwareBazaar`
 
 🔗 [View the Repository](https://github.com/Ourworldofdreams/Malicious-Malware-Analysis-Lab)
 
@@ -130,23 +130,16 @@ A dedicated repository for analyzing PCAP files to detect malicious activity lik
 ## **🛠 Tools I Use**
 
 ### **Networking Tools**  
-<img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />  
-<img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />  
-<img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logo=Nmap&logoColor=white" />  
+<img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />  <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />  <img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logo=Nmap&logoColor=white" />  
 
 ### **Endpoint Security**  
-<img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />  
-<img src="https://img.shields.io/badge/-Bitdefender_GravityZone-00A4EF?&style=for-the-badge&logo=Bitdefender&logoColor=red" />  
+<img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />  <img src="https://img.shields.io/badge/-Bitdefender_GravityZone-00A4EF?&style=for-the-badge&logo=Bitdefender&logoColor=red" />  
 
 ### **SIEM Platforms**  
-<img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />  
-<img src="https://img.shields.io/badge/-Elastic_SIEM-005571?style=for-the-badge&logo=Elastic&logoColor=white" />  
-<img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />  
+<img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />  <img src="https://img.shields.io/badge/-Elastic_SIEM-005571?style=for-the-badge&logo=Elastic&logoColor=white" />  <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />  
 
 ### **Automation & Threat Intelligence**  
-<img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=PowerShell&logoColor=white" />  
-<img src="https://img.shields.io/badge/-MalwareBazaar-FF6B6B?&style=for-the-badge&logo=Malware&logoColor=white" />  
-<img src="https://img.shields.io/badge/-VirusTotal-394EFF?&style=for-the-badge&logo=VirusTotal&logoColor=white" />  
+<img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=PowerShell&logoColor=white" />  <img src="https://img.shields.io/badge/-MalwareBazaar-FF6B6B?&style=for-the-badge&logo=Malware&logoColor=white" />  <img src="https://img.shields.io/badge/-VirusTotal-394EFF?&style=for-the-badge&logo=VirusTotal&logoColor=white" />  
 
 ---
 
@@ -159,8 +152,7 @@ Here’s what I’m working on next:
 
 ## **📜 Certifications**  
 
-<img src="https://img.shields.io/badge/-CompTIA_Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />  
-<img src="https://img.shields.io/badge/-ISC2_Certified_In_Cybersecurity-0078D4?&style=for-the-badge&logo=ISC2&logoColor=white" />  
+<img src="https://img.shields.io/badge/-CompTIA_Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />  <img src="https://img.shields.io/badge/-ISC2_Certified_In_Cybersecurity-0078D4?&style=for-the-badge&logo=ISC2&logoColor=white" />  
 
 ---
 
