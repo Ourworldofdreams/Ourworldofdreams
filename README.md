@@ -1,4 +1,4 @@
-# **👋 Welcome to My GitHub Profile!**  
+# **Welcome to My GitHub Profile!**  
 <a href="https://www.linkedin.com/in/darralynmiller23"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
 
 Hi, I’m **Elijah**—a motivated IT professional and recent graduate with hands-on experience in IT support, system administration, and cybersecurity. Based in the Southern U.S., I’m passionate about problem-solving and building secure systems.  
