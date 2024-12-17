@@ -1,7 +1,7 @@
 # **Welcome to My GitHub Profile!**  
 <a href="https://www.linkedin.com/in/darralynmiller23"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
 
-Hi, I’m **Elijah** I am motivated IT professional and recent graduate with hands-on experience in IT support, system administration, and cybersecurity. Based in the Southern U.S., I’m passionate about problem-solving and building secure systems. My goal is to learn and expand my cybersecurity skill set so I can better protect people and their data.
+I am a motivated IT professional and recent graduate with hands-on experience in IT support, system administration, and cybersecurity. Based in the Southern U.S., I’m passionate about problem-solving and building secure systems. My goal is to learn and expand my cybersecurity skill set so I can better protect people and their data.
 
 This GitHub is my portfolio, showcasing the technical projects I’ve completed, along with my growing expertise in network security, phishing analysis, and malware forensics.  
 
